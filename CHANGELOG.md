@@ -11,11 +11,13 @@
 
 **Closed issues:**
 
+- Add post No 4 [\#11](https://github.com/MasterDevOpsDemos/masterdevopsdemos.github.io/issues/11)
 - Add post No\#3 [\#6](https://github.com/MasterDevOpsDemos/masterdevopsdemos.github.io/issues/6)
 - Add post No\#2 [\#3](https://github.com/MasterDevOpsDemos/masterdevopsdemos.github.io/issues/3)
 
 **Merged pull requests:**
 
+- Adding fourth post [\#12](https://github.com/MasterDevOpsDemos/masterdevopsdemos.github.io/pull/12) ([MasterDevOpsDemos](https://github.com/MasterDevOpsDemos))
 - Add my third post [\#10](https://github.com/MasterDevOpsDemos/masterdevopsdemos.github.io/pull/10) ([MasterDevOpsDemos](https://github.com/MasterDevOpsDemos))
 - Change bout text [\#8](https://github.com/MasterDevOpsDemos/masterdevopsdemos.github.io/pull/8) ([MasterDevOpsDemos](https://github.com/MasterDevOpsDemos))
 
